@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    //"MusicTrackDBContext": "Server=(localdb)\\\\mssqllocaldb;Database=MusicTracksContext—eOcdOd-385e-44a4-add2-359310ff8b5d;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "MusicTrackDBContext": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\marce\\Documents\\GitHub\\certificacao-csharp-pt8-roteiro\\Listings\\Cinema.mdf;Integrated Security=True"
+  }
+}
